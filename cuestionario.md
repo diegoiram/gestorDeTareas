@@ -12,9 +12,9 @@ Quieres deshacer un commit que ya subiste. ¿Qué usas? git revert​.
 
 ¿Qué es origin?  El nombre por defecto del remot.
 
-¿Qué es un fork?  Una copia del repo en tu cuenta de GitHub​.
+¿Qué es un fork?  Una copia de un repositorio pero en tu cuenta y es independiente del original
 
-Los marcadores <<<<<<<, =======, >>>>>>> indican…  Un conflicto de fusión​.
+Los marcadores <<<<<<<, =======, >>>>>>> indican…  diferencias y conflictos en lineas de archivos
 
 ## Evaluación: Preguntas Abiertas​
 Explica con una analogía propia las tres áreas de Git. Estas escribiendo un libro, tienes el escritorio con lo que ya llevas (working directory), y por cada cambio lo dejas en una hoja con una nota (staging area). tienes distinas versiones del mismo pero con cambios cada una, puedes regresar a una version mejor.
